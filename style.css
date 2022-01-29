@@ -181,8 +181,8 @@ footer p {
   position: fixed;
   display: grid;
   place-items: center;
-  bottom: 5px;
-  right: 5px;
+  bottom: 10px;
+  right: 10px;
   padding: 20px;
   border-radius: 50%;
   height: 20px;
